@@ -1,0 +1,78 @@
+body{
+    background-color:rgb(171, 44, 194);
+    
+    
+
+}
+.container{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    
+    
+}
+
+
+
+.block1, .block2, .block3{
+    width: 300px;
+    height: 450px;
+    background-color:rgb(57, 55, 55);
+    border-radius: 15px;
+    overflow: hidden;
+
+}
+.entetefirstblock{
+    background-color:rgb(15, 102, 184);
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    font-family:arial;
+    font-size: 30px;
+    color: white;
+    
+    
+}
+
+.enteteSecondBlock{
+    background-color:rgb(173, 28, 28);
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    font-family:arial;
+    font-size: 30px;
+    color: white;
+}
+
+.enteteThirdBlock{
+    background-color:orange;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    font-family:arial;
+    font-size: 30px;
+    color: white;
+}
+.information,.information2,.information3{
+    font-family:arial;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.prix{
+    font-size: 40px;
+}
+
+
+
+
